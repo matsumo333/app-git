@@ -51,7 +51,7 @@ export default function Home() {
             }
             className="appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
             type="text"
-            placeholder="Add a task"
+            placeholder="Add a tasknanay"
             value={title}
           />
           <button
